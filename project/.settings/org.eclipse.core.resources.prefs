@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//Inc/hd44780.h=UTF-8
+encoding//Src/adc.c=UTF-8
+encoding//Src/hd44780.c=UTF-8
+encoding//Src/main.c=UTF-8
+encoding//Src/sseg.c=UTF-8
+encoding//Src/timer_pwm.c=UTF-8
+encoding//Src/usart.c=UTF-8
+encoding//Src/util.c=UTF-8
